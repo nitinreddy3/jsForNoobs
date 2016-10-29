@@ -1,6 +1,6 @@
 # JavaScript For Noobs
 
-```
+```javascript
 /**
  * Print Triangle with specific string
  * @param {number} maxLimit - Number of iterations
